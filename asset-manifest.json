@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dummy-logo-maker-v1/static/js/main.df4fc513.chunk.js",
+    "main.js.map": "/dummy-logo-maker-v1/static/js/main.df4fc513.chunk.js.map",
+    "runtime-main.js": "/dummy-logo-maker-v1/static/js/runtime-main.2135b0c5.js",
+    "runtime-main.js.map": "/dummy-logo-maker-v1/static/js/runtime-main.2135b0c5.js.map",
+    "static/js/2.b98713b4.chunk.js": "/dummy-logo-maker-v1/static/js/2.b98713b4.chunk.js",
+    "static/js/2.b98713b4.chunk.js.map": "/dummy-logo-maker-v1/static/js/2.b98713b4.chunk.js.map",
+    "index.html": "/dummy-logo-maker-v1/index.html",
+    "precache-manifest.e246d5201f56b0101ef76b33380a6c50.js": "/dummy-logo-maker-v1/precache-manifest.e246d5201f56b0101ef76b33380a6c50.js",
+    "service-worker.js": "/dummy-logo-maker-v1/service-worker.js",
+    "static/js/2.b98713b4.chunk.js.LICENSE.txt": "/dummy-logo-maker-v1/static/js/2.b98713b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2135b0c5.js",
+    "static/js/2.b98713b4.chunk.js",
+    "static/js/main.df4fc513.chunk.js"
+  ]
+}
